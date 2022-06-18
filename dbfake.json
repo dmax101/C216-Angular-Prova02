@@ -1,0 +1,29 @@
+{
+  "curso": [
+    {
+      "id": 1,
+      "descricao": "Java é uma linguagem de programação",
+      "cargaHoraria": 100
+    },
+    {
+      "id": 2,
+      "descricao": "Python é uma linguagem de programação",
+      "cargaHoraria": 80
+    },
+    {
+      "id": 3,
+      "descricao": "C# é uma linguagem de programação",
+      "cargaHoraria": 200
+    },
+    {
+      "id": 4,
+      "descricao": "C++ é uma linguagem de programação",
+      "cargaHoraria": 150
+    },
+    {
+      "id": 5,
+      "descricao": "C é uma linguagem de programação",
+      "cargaHoraria": 300
+    }
+  ]
+}
